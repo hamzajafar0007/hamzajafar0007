@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Hamza Jafar 👋
 
-<!--
-**hamzajafar0007/hamzajafar0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student Developer from Pakistan
 
-Here are some ideas to get you started:
+I'm learning programming and building my own projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+
+### Hamza Personal Dashboard
+A dashboard built using HTML, CSS, and JavaScript.
+
+[View My Website](https://hamzajafar0007.github.io/hamza-personal-dashboard/)
+
+## 🛠️ Skills I'm Learning
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git and GitHub
+
+## 🎯 My Goal
+
+To improve my programming skills and build useful projects.
+
+## 📫 Contact
+
+GitHub: [@hamzajafar0007](https://github.com/hamzajafar0007)
